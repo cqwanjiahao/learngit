@@ -5,5 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git can merge branches and test no -ff model.
 
-
 text last
